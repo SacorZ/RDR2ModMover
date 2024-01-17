@@ -5,6 +5,6 @@ When trying to run and you dont have it, a prompt will ask you to download it fr
 
 Simply install it and rerun!
 
-https://github.com/SacorZ/RDR2ModMover/blob/master/RDR2ModMover.exe 
+[ModMover](https://github.com/SacorZ/RDR2ModMover/blob/master/RDR2ModMover.exe) 
 
 Thank you for using my ModMover!
