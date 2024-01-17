@@ -1,8 +1,8 @@
 # RDR2ModMover
-To use the [ModMover](https://github.com/SacorZ/RDR2ModMover/blob/master/RDR2ModMover.exe)  you need .NET 8. 
+To use the [ModMover](https://github.com/SacorZ/RDR2ModMover/blob/master/RDR2ModMover.exe)  you need simply put it in your gamefolder where the rdr2.exe is located!
 
-When trying to run and you dont have it, a prompt will ask you to download it from Microsoft. 
 
+When trying to run and it and you dont have .NET 8 installed, a prompt will ask you to download it from Microsoft. 
 Simply install it and rerun!
 
 
